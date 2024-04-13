@@ -1,2 +1,4 @@
 # vansh
-my first git repository
+My first git repository
+Author - Vansh Vishwakarma
+
